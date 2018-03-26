@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/naanrdk/naanrdk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://user-images.githubusercontent.com/13908439/37897381-af2ea536-3103-11e8-8291-0008dc9e6d09.jpg" width="200" height="200"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>I’m Rahul Dubey, a Computer Science student at CHRIST (Deemed to be University), Bengaluru. I am AI aficionado, computer vision and building bots.
 
-### Markdown
+## Certified
+- Data Science Methodology by Big Data University, MOOC - 2015
+- Banking and Insurance by Bharathiar University, Coimbatore – 2014
+- Multimedia Visualizer by Apollo Computer Education, Coimbatore - 2009-10
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+- Rahul. Dubey, J. Saji, A. TT and K. Saravanakumar, "Food Computer Automated
+Gardening System", in Emerging Trends in IT, pp. 38-39, 2017.
+- Rahul. Dubey and C. Thingom, "An analysis on direct authentication of data", 2017
+International Conference on Innovative Mechanisms for Industry Applications (ICIMIA), pp. 415-
+418, 2017.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Volunteer
+- TEDxGRD - Idea: Women's Equality - Walkathon http://www.tedxgrd.com/ - 2015
+- National Service Scheme - 2012
+- National Cadet Corps - 2010
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naanrdk/naanrdk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## allSocialHandles /@[naanrdk](https://naanrdk.github.io/naanrdk/)
