@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/13908439/37897381-af2ea536-3103-11e8-8291-0008dc9e6d09.jpg" width="200" height="200"/>
 
->I’m Rahul Dubey, a Computer Science student at CHRIST (Deemed to be University), Bengaluru. I am AI aficionado, computer vision and building bots.
+>I’m a Computer Science student at CHRIST (Deemed to be University), Bengaluru. I am AI aficionado, computer vision and building bots.
 
 ## Certified
 - Data Science Methodology by Big Data University, MOOC - 2015
